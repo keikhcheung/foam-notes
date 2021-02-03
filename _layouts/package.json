@@ -7,11 +7,8 @@
     "gatsby": "^2.29.1",
     "gatsby-plugin-favicon": "^3.1.6",
     "gatsby-plugin-react-helmet": "^3.7.0",
-    "gatsby-remark-double-brackets-link": "^0.1.7",
-    "gatsby-remark-double-parenthesis-link": "^0.1.2",
     "gatsby-remark-smartypants": "^2.7.0",
     "gatsby-theme-garden": "^0.1.55",
-    "gatsby-transformer-remark": "^2.13.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-helmet": "^6.1.0"
