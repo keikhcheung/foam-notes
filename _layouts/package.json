@@ -4,15 +4,11 @@
   "description": "",
   "version": "1.0.0",
   "dependencies": {
-    "gatsby": "^2.29.1",
+    "gatsby": "^2.23.18",
     "gatsby-plugin-favicon": "^3.1.6",
-    "gatsby-plugin-react-helmet": "^3.7.0",
-    "gatsby-remark-smartypants": "^2.7.0",
-    "gatsby-theme-garden": "^0.1.55",
-    "gatsby-transformer-remark": "^2.13.0",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0",
-    "react-helmet": "^6.1.0"
+    "gatsby-theme-garden": "^0.1.28",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1"
   },
   "keywords": [
     "foam"
