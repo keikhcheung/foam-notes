@@ -1,14 +1,14 @@
 module.exports = {
   pathPrefix: ``,
   siteMetadata: {
-    title: `Foam`,
+    title: `kei’s notes`,
   },
   plugins: [
     {
       resolve: `gatsby-theme-garden`,
       options: {
         rootNote: "/readme",
-        contentPath: `${__dirname}/..`,
+        contentPath: `${__dirname}/notes/..`,
         ignore: [
           "**/_layouts/**",
           "**/.git/**",
