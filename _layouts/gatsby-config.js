@@ -8,7 +8,7 @@ module.exports = {
       resolve: `gatsby-theme-garden`,
       options: {
         rootNote: "/readme",
-        contentPath: `${__dirname}/notes/..`,
+        contentPath: `${__dirname}/..`,
         ignore: [
           "**/_layouts/**",
           "**/.git/**",
