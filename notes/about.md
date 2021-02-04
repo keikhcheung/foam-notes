@@ -23,4 +23,4 @@ Have fun digging around!
 
 * * *
 
-This idea is sparked by the [Roam community](https://roamresearch.com/) and [Andy Matuschak](https://notes.andymatuschak.org/). Notes are written on Roam, [Obsidian](https://obsidian.md/) and VS Code. This site runs on GitHub with [Foam](https://github.com/foambubble/foam-template) and Mathieu Dutour’s [`foam-gatsby-template`](https://github.com/mathieudutour/foam-gatsby-template) with some customisation.
+This idea is sparked by the [Roam community](https://roamresearch.com/) and [Andy Matuschak](https://notes.andymatuschak.org/). Notes are written on Roam, [Obsidian](https://obsidian.md/) and VS Code. This site runs on GitHub with [Foam](https://foambubble.github.io/foam/) and Mathieu Dutour’s [`foam-gatsby-template`](https://github.com/mathieudutour/foam-gatsby-template) with some customisation.
