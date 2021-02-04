@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/notes`,
+  pathPrefix: ``,
   siteMetadata: {
     title: `kei’s notes`,
   },
@@ -8,7 +8,7 @@ module.exports = {
       resolve: `gatsby-theme-garden`,
       options: {
         rootNote: "/readme",
-        contentPath: `${__dirname}/notes/..`,
+        contentPath: `${__dirname}/../notes`,
         ignore: [
           "**/_layouts/**",
           "**/.git/**",
