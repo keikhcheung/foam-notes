@@ -1,3 +1,7 @@
+Merged to [`notes`](https://github.com/keikhcheung/notes) repo.
+
+---
+
 # About these notes
 Ongoing working notes of [Kei Ka-hei Cheung](https://keikhcheung.com).
 
